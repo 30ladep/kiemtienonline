@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kiemtiencucnhanh.work	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	21bf2512-bbc1-4820-6148-6b3b789ae518
+www.kiemtiencucnhanh.work	TRUE	/	FALSE	1999999999	LADI_FORM_SUBMIT	0
+www.kiemtiencucnhanh.work	TRUE	/	FALSE	1999999999	LADI_PAGE_VIEW	1
+
